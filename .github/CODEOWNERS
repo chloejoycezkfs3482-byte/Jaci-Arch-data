@@ -1,0 +1,6 @@
+# CODEOWNERS file for Jaci-Arch-data
+# Order is important; the last matching pattern takes the most precedence.
+# These owners will be requested for review when someone opens a pull request.
+
+# Default owners for everything in the repository
+* @chloejoycezkfs3482-byte
